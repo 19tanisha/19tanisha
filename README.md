@@ -7,7 +7,7 @@
 - 
 
 <a href="https://github.com/19tanisha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=19tanisha&theme=radical&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=19tanisha&theme=radical&show_icons=true" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19tanisha&layout=compact&theme=radical)](https://github.com/19tanisha/github-readme-stats)
