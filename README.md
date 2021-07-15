@@ -9,4 +9,4 @@
 ![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=19tanisha&theme=radical&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19tanisha&layout=compact)](https://github.com/19tanisha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19tanisha&layout=compact&theme=radical)](https://github.com/19tanisha/github-readme-stats)
