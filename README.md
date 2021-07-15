@@ -5,9 +5,6 @@
 - 👯 I’m looking to collaborate on Mobile App Develpoment
 - 📫 How to reach me: tanishavanneri19@gmail.com
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19tanisha)](https://github.com/19tanisha/github-readme-stats)
-
-
 
 ![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=19tanisha&theme=radical&show_icons=true)
 
