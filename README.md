@@ -11,3 +11,18 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19tanisha&layout=compact&theme=radical)](https://github.com/19tanisha/github-readme-stats)
+
+<h3 align="center">Connect with me over at</h3>
+
+
+<p align="center"> 
+<a href="https://twitter.com/_tanisha19" target="blank">
+    <img align="center" src="svgs/twitter.svg" alt="tanishathakur" height="30" width="40" />
+</a>
+<a href="https://instagram.com/__tanisha19" target="blank">
+    <img align="center" src="svgs/instagram.svg" alt="tanishathakur" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/tanisha-thakur" target="blank">
+    <img align="center" src="svgs/linkedin.svg" alt="tanishathakur" height="30" width="40" />
+</a>
+</p>
